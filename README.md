@@ -15,7 +15,7 @@ You can open any chapter of the book in Colab by clicking on one of these links:
 
 # Chapters:
 
-## 1. Introduction: We will discuss the following structura ltransformation: AI algorithms; Anti-aging technologies and demographics; Supply Shocks; Deglobalization and Supply Chain Instability; Climate Change. We will adopt a policy perspective, that is, we will focus on how these developments change optimal economic macroeconomic policy.
+## 1. Introduction. We will discuss the following structural transformations: AI algorithms; Anti-aging technologies and demographics; Supply Shocks; Deglobalization and Supply Chain Instability; Climate Change. We will adopt a policy perspective, that is, we will focus on how these developments change optimal economic macroeconomic policy.
 
 ## 2. AI algorithms. Discuss recent developements in Large Language Model, Generative Models, Reinforcement Learning and automated pricing, Automated Trading.
 
@@ -26,6 +26,8 @@ You can open any chapter of the book in Colab by clicking on one of these links:
 ## 5. Deglobalization and Supply Chain Instability. 
 
 ## 6. Climate Change.
+
+## 7. Overall Implication for macroeconomic policy.
 
 # Changelog
 
